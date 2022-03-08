@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sanjayalwani
-- 👀 I’m interested in solving problems and constantly learning!
-As of now that includes honing my craft in programming, learning more about mathematics and CS and an interest in applications of technology in spatial and social settings.
-- 🌱 I’m currently learning to become a better programmer in C++ and Python and to broaden my exposure to different design patterns and problem solving methods.
-- 🎓 I am a Math and Computer Science major and am currently taking courses in:
+👋 Welcome to my GitHub!
+
+## `$ whoami`
+- A programmer interested in solving all types of problems in different domains
+  - Currently, this includes honing my craft in programming, diving deeper into math and CS and exploring my interest in applications of technology in spatial and social settings.
+- 🌱 Currently learning to become a better programmer in C++ and Python and to broaden my exposure to different design patterns and problem solving methods.
+- 🎓 A Math and Computer Science major currently taking courses in:
   - Data Mining
   - Linear Programming
   - Numerical Analysis
