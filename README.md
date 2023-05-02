@@ -1,5 +1,4 @@
 ## `$ whoami`
-- A Math and Computer Science Joint Major Candidate @ SFU actively seeking new opportunities
 - A software developer who is interested in solving a diversity of problems
 - 🌱 Currently learning how to develop applications in the Cloud with AWS
 
